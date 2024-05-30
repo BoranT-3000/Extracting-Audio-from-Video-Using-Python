@@ -1,6 +1,9 @@
 # Python kullanarak Video' dan ses çıkarımı
 ## Extracting-Audio-from-Video-Using-Python
 
+Bu readme.md dosyası, MoviePy, PyDub ve ffmpeg kütüphanelerini kullanarak video düzenleme projeleri için bir rehber olarak tasarlanmıştır.
+Ek olarak, Bu kütüphaneler videoları kesmek, videodan ses çıkarmak, birleştirmek, ses eklemek, altyazılar eklemek ve daha fazlasını yapmak için kullanılabilir.
+
 
 Eğer sanal ortam oluşturma kütüphanesini daha öncesinde kurmadıysanız, lütfen aşağıdaki komut ile kurunuz:
 ```
@@ -21,9 +24,9 @@ source audioenv/bin/activate
 ```
 
 Kullanılacak Kütüphaneler
-1.MoviePy
-2.Pydup
-3.ffmpeg
+1. MoviePy
+2. Pydup
+3. ffmpeg
 
 ```
 pip install moviepy
