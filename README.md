@@ -25,12 +25,13 @@ source audioenv/bin/activate
 
 Kullanılacak Kütüphaneler
 1. MoviePy
+   - Resmi Dokümantasyonu: [MoviePy Dökümantasyonu](https://zulko.github.io/moviepy/).
+   -  ``` pip install moviepy ```
 2. Pydup
+   - Resmi Dokümantasyonu: [Pydub Dökümantasyonu](https://github.com/jiaaro/pydub/blob/master/API.markdown).
+   - ``` pip install pydub ```
 3. ffmpeg
-
-```
-pip install moviepy
-```
+   - 
 
 
 
