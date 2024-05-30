@@ -31,7 +31,21 @@ Kullanılacak Kütüphaneler
    - Resmi Dokümantasyonu: [Pydub Dökümantasyonu](https://github.com/jiaaro/pydub/blob/master/API.markdown).
    - ``` pip install pydub ```
 3. ffmpeg
-   - 
+   - Windows:
+     - ffmpeg.org adresinden Windows için derlenmiş sürümü indirin.
+     - İndirilen zip dosyasını çıkarın ve bin klasörünün yolunu PATH ortam değişkenine ekleyin.
+
+   - MacOS:
+   - ``` brew install ffmpeg ```
+
+   Linux (Debian/Ubuntu):
+   ```
+   sudo apt update
+   sudo apt install ffmpeg
+   ```
+
+   Python ile kütüphanesinin kurulumu:
+   ``` pip install ffmpeg-python ```
 
 
 
